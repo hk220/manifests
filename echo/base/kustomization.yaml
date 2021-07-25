@@ -1,0 +1,3 @@
+resources:
+  - deplyment.yaml
+  - service.yaml
